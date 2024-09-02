@@ -36,7 +36,6 @@ Now we can run the flask server with ```python app.py``` command.
 
 ### How To Use?
 
-![image](https://github.com/user-attachments/assets/e93169af-412a-4183-9a18-fd8990e26022)
 
 https://github.com/user-attachments/assets/2946c4d8-8f46-46c0-8604-48f18f39881e
 
