@@ -12,6 +12,7 @@ mylist = os.listdir(folderPath)
 print(mylist)
 overlayList = []
 
+
 for imPath in mylist:
     image = cv.imread(f"{folderPath}/{imPath}")
     overlayList.append(image)
