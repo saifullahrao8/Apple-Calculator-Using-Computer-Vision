@@ -13,9 +13,10 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![image](https://github.com/user-attachments/assets/a4826961-70cb-4481-b9db-22b94d539ee3)
 
 ### How To Run?
+
+![image](https://github.com/user-attachments/assets/e93169af-412a-4183-9a18-fd8990e26022)
 
 **⚠️ Note:** This project hasn't been tested with a ```python-dotenv``` file. To use the AI features, you need a Gemini API key. You can create a key with one click in [Google AI Studio](https://makersuite.google.com/app/apikey). Replace ```YOUR_API_KEY``` in ```app.py``` with your own API Key.
 
