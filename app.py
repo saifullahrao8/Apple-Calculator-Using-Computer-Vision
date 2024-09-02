@@ -5,6 +5,7 @@ import os
 import handTrack as ht
 import google.generativeai as genai
 
+
 app = Flask(__name__)
 
 brushThickness = 15
