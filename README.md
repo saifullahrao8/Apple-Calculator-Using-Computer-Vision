@@ -35,10 +35,6 @@ pip install -r requirements.txt
 ```
 Now we can run the flask server with ```python app.py``` command.
 
-### How To Use?
-
-
-https://github.com/user-attachments/assets/2946c4d8-8f46-46c0-8604-48f18f39881e
 
 ### License
 
